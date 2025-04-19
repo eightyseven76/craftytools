@@ -1,4 +1,4 @@
-v0.0.1 
+v0.1.0 
 
 - Added Stone Shears Tool
 - Added Iron Shears Tool
@@ -7,15 +7,9 @@ v0.0.1
 - Added Wicked Shears Tool
 - Added Gentle Touch Enchantment for Gentle Shears
 - Added Wicked Edge Enchantment for Wicked Shears
-
-v0.0.2
-
 - Added Job Resetter Tool
-- Added descriptions for Gentle Shears, Wicked Shears, Gentle Touch, Wicked Edge, Job Resetter.
+- Added descriptions for Gentle Shears, Wicked Shears, Gentle Touch, Wicked Edge, and Job Resetter.
 - Added Crafty Tools creative tab.
 - Added the mod logo.
-
-v0.0.3
-
 - Job resetter now works with Nitwits.
-- Added Soft Touch, Shadow Snip and New Trade Path advancements.
+- Added Soft Touch, Shadow Snip, and New Trade Path advancements.
